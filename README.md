@@ -1,4 +1,3 @@
-# Qin-Li-Monument_Single-word-retrieval-system
+# 《勤礼碑》单字检索系统
 
-Qin Li Monument
-run sys_window.py
+本系统毕业设计，仅供西安理工大学计算机学院检查老师查阅。
